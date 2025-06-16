@@ -1,0 +1,53 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Rider / JetBrains
+.idea/
+
+# Visual Studio working folder
+.vs/
+
+# Logs
+*.log
+
+# Database & cache files
+*.db
+*.mdf
+*.ldf
+*.sqlite
+
+# ASP.NET Secrets (if using)
+secrets.json
+
+# Environment & config
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+.env
+
+# EF Core migrations model snapshot (optional to ignore)
+# Migrations/*.Designer.cs
+# Migrations/*Snapshot.cs
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages (if restoring from lock)
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
