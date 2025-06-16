@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProjectAPI\\MimoLearningServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43CFF8C-D388-4707-98CD-18422C052484}|DTO\\DTO.csproj|c:\\projectapi\\mimolearningserver\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43CFF8C-D388-4707-98CD-18422C052484}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C08BB9A2-B842-4E9A-AE84-EBC035E4697D}|Repository\\Repository.csproj|c:\\projectapi\\mimolearningserver\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08BB9A2-B842-4E9A-AE84-EBC035E4697D}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4651BF26-6674-4849-BEA2-0A5F1B96FFF3}|DataAccess\\DataAccess.csproj|c:\\projectapi\\mimolearningserver\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4651BF26-6674-4849-BEA2-0A5F1B96FFF3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:59:33.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:58:12.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:57:48.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Class1.cs",
+              "RelativeDocumentMoniker": "Model\\Class1.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Class1.cs",
+              "RelativeToolTip": "Model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T03:56:59.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
