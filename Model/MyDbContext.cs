@@ -20,6 +20,26 @@ namespace Model
         {
             base.OnModelCreating(modelBuilder);
 
+            // Seeding user mẫu
+            modelBuilder.Entity<User>().HasData(
+                new User
+                {
+                    Id = 1,
+                    Name = "Admin Teacher",
+                    Email = "teacher@example.com",
+                    Password = BCrypt.Net.BCrypt.HashPassword("123456"), // Mã hóa sẵn
+                    Role = "teacher"
+                },
+                new User
+                {
+                    Id = 2,
+                    Name = "Student A",
+                    Email = "student@example.com",
+                    Password = BCrypt.Net.BCrypt.HashPassword("123456"),
+                    Role = "student"
+                }
+            );
+
             // Many-to-Many: User <-> Class thông qua ClassMember
             modelBuilder.Entity<ClassMember>()
                 .HasKey(cm => new { cm.JoinedClassesId, cm.MembersId });

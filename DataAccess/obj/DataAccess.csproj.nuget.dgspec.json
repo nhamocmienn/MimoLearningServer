@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\DataAccess.csproj": {}
+    "D:\\prm392\\api\\MimoLearningServer\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\DataAccess.csproj": {
+    "D:\\prm392\\api\\MimoLearningServer\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\prm392\\api\\MimoLearningServer\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\thaim\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\obj\\",
+        "projectPath": "D:\\prm392\\api\\MimoLearningServer\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\LEMANH\\.nuget\\packages\\",
+        "outputPath": "D:\\prm392\\api\\MimoLearningServer\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thaim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LEMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj": {
-                "projectPath": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj"
+              "D:\\prm392\\api\\MimoLearningServer\\Model\\Model.csproj": {
+                "projectPath": "D:\\prm392\\api\\MimoLearningServer\\Model\\Model.csproj"
               }
             }
           }
@@ -73,20 +73,20 @@
         }
       }
     },
-    "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj": {
+    "D:\\prm392\\api\\MimoLearningServer\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\prm392\\api\\MimoLearningServer\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj",
-        "packagesPath": "C:\\Users\\thaim\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjectAPI\\MimoLearningServer\\Model\\obj\\",
+        "projectPath": "D:\\prm392\\api\\MimoLearningServer\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\LEMANH\\.nuget\\packages\\",
+        "outputPath": "D:\\prm392\\api\\MimoLearningServer\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\thaim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LEMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,6 +119,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BCrypt.Net-Core": {
+              "target": "Package",
+              "version": "[1.6.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.6, )"
