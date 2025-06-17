@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\ProjectAPI\\MimoLearningServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\studysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\studysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B43CFF8C-D388-4707-98CD-18422C052484}|DTO\\DTO.csproj|c:\\projectapi\\mimolearningserver\\dto\\class\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43CFF8C-D388-4707-98CD-18422C052484}|DTO\\DTO.csproj|solutionrelative:dto\\class\\classdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\wronganswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,8 +19,20 @@
       "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\studysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\studysection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\mydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\mydbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,6 +43,10 @@
       "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\classmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\classmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,20 +55,44 @@
       "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|c:\\projectapi\\mimolearningserver\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|c:\\projectapi\\mimolearningserver\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|c:\\projectapi\\mimolearningserver\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45E1E93E-1087-43A4-A49E-25733CBD1E0D}|Service\\Service.csproj|c:\\projectapi\\mimolearningserver\\service\\classservicepackage\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45E1E93E-1087-43A4-A49E-25733CBD1E0D}|Service\\Service.csproj|solutionrelative:service\\classservicepackage\\classservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|c:\\projectapi\\mimolearningserver\\webapi\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4651BF26-6674-4849-BEA2-0A5F1B96FFF3}|DataAccess\\DataAccess.csproj|c:\\projectapi\\mimolearningserver\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4651BF26-6674-4849-BEA2-0A5F1B96FFF3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43CFF8C-D388-4707-98CD-18422C052484}|DTO\\DTO.csproj|c:\\projectapi\\mimolearningserver\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B43CFF8C-D388-4707-98CD-18422C052484}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45E1E93E-1087-43A4-A49E-25733CBD1E0D}|Service\\Service.csproj|c:\\projectapi\\mimolearningserver\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45E1E93E-1087-43A4-A49E-25733CBD1E0D}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|c:\\projectapi\\mimolearningserver\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|c:\\projectapi\\mimolearningserver\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3B5590F2-373C-42C8-AE46-7D51366AAF51}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|c:\\projectapi\\mimolearningserver\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8E88AE0A-037E-4A8A-AEB6-95026AC065D6}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4651BF26-6674-4849-BEA2-0A5F1B96FFF3}|DataAccess\\DataAccess.csproj|c:\\projectapi\\mimolearningserver\\dataaccess\\classrepositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4651BF26-6674-4849-BEA2-0A5F1B96FFF3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\classrepositories\\classrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -75,19 +111,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MyDbContext.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\MyDbContext.cs",
-              "RelativeDocumentMoniker": "Model\\MyDbContext.cs",
-              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\MyDbContext.cs",
-              "RelativeToolTip": "Model\\MyDbContext.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAqwGwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:56:29.953Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StudySection.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\StudySection.cs",
               "RelativeDocumentMoniker": "Model\\StudySection.cs",
@@ -117,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Subject.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Subject.cs",
               "RelativeDocumentMoniker": "Model\\Subject.cs",
@@ -130,20 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\User.cs",
               "RelativeDocumentMoniker": "Model\\User.cs",
               "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\User.cs",
               "RelativeToolTip": "Model\\User.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T13:53:42.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "WrongAnswer.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\WrongAnswer.cs",
               "RelativeDocumentMoniker": "Model\\WrongAnswer.cs",
@@ -156,7 +179,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassDto.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\DTO\\Class\\ClassDto.cs",
+              "RelativeDocumentMoniker": "DTO\\Class\\ClassDto.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\DTO\\Class\\ClassDto.cs",
+              "RelativeToolTip": "DTO\\Class\\ClassDto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:01:08.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "MyDbContextFactory.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\MyDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Model\\MyDbContextFactory.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\MyDbContextFactory.cs",
+              "RelativeToolTip": "Model\\MyDbContextFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:54:28.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Model\\MyDbContext.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\MyDbContext.cs",
+              "RelativeToolTip": "Model\\MyDbContext.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:56:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Lesson.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Lesson.cs",
               "RelativeDocumentMoniker": "Model\\Lesson.cs",
@@ -169,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Document.cs",
               "RelativeDocumentMoniker": "Model\\Document.cs",
@@ -182,78 +244,172 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "ClassMember.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\ClassMember.cs",
+              "RelativeDocumentMoniker": "Model\\ClassMember.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\ClassMember.cs",
+              "RelativeToolTip": "Model\\ClassMember.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:41:57.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Class.cs",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Class.cs",
               "RelativeDocumentMoniker": "Model\\Class.cs",
               "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Class.cs",
               "RelativeToolTip": "Model\\Class.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T13:54:00.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:23:35.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\appsettings.json",
               "RelativeDocumentMoniker": "Model\\appsettings.json",
               "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\appsettings.json",
               "RelativeToolTip": "Model\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-16T13:47:41.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T09:23:35.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Model.csproj",
-              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj",
-              "RelativeDocumentMoniker": "Model\\Model.csproj",
-              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj",
-              "RelativeToolTip": "Model\\Model.csproj",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T09:04:52.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
               "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\appsettings.json",
               "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-16T09:24:32.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
+              "Title": "ClassService.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Service\\ClassServicePackage\\ClassService.cs",
+              "RelativeDocumentMoniker": "Service\\ClassServicePackage\\ClassService.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Service\\ClassServicePackage\\ClassService.cs",
+              "RelativeToolTip": "Service\\ClassServicePackage\\ClassService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAEwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:09:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:17:37.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Model.csproj",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "Model\\Model.csproj",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Model\\Model.csproj",
+              "RelativeToolTip": "Model\\Model.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T09:04:52.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "WebAPI.csproj",
               "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\WebAPI.csproj",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
               "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\WebAPI\\WebAPI.csproj",
               "RelativeToolTip": "WebAPI\\WebAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T09:37:57.077Z"
+              "WhenOpened": "2025-06-16T09:37:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DTO",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO\\DTO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T03:14:17.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassRepository.cs",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\ClassRepositories\\ClassRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ClassRepositories\\ClassRepository.cs",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\ClassRepositories\\ClassRepository.cs",
+              "RelativeToolTip": "DataAccess\\ClassRepositories\\ClassRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T03:02:03.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T03:21:01.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Service",
+              "DocumentMoniker": "C:\\ProjectAPI\\MimoLearningServer\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\ProjectAPI\\MimoLearningServer\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T03:23:02.908Z",
+              "EditorCaption": ""
             }
           ]
         }

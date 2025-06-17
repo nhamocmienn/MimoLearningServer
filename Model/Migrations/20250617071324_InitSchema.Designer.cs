@@ -12,8 +12,8 @@ using Model;
 namespace Model.Migrations
 {
     [DbContext(typeof(MyDbContext))]
-    [Migration("20250616141730_InitialCleanMigration")]
-    partial class InitialCleanMigration
+    [Migration("20250617071324_InitSchema")]
+    partial class InitSchema
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -37,7 +37,7 @@ namespace Model.Migrations
 
                     b.HasIndex("MembersId");
 
-                    b.ToTable("ClassMembers", (string)null);
+                    b.ToTable("ClassUser");
                 });
 
             modelBuilder.Entity("Model.Class", b =>
@@ -63,6 +63,21 @@ namespace Model.Migrations
                     b.HasIndex("CreatorId");
 
                     b.ToTable("Classes");
+                });
+
+            modelBuilder.Entity("Model.ClassMember", b =>
+                {
+                    b.Property<int>("JoinedClassesId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("MembersId")
+                        .HasColumnType("int");
+
+                    b.HasKey("JoinedClassesId", "MembersId");
+
+                    b.HasIndex("MembersId");
+
+                    b.ToTable("ClassMembers");
                 });
 
             modelBuilder.Entity("Model.Document", b =>
@@ -296,6 +311,25 @@ namespace Model.Migrations
                     b.Navigation("Creator");
                 });
 
+            modelBuilder.Entity("Model.ClassMember", b =>
+                {
+                    b.HasOne("Model.Class", "JoinedClass")
+                        .WithMany("ClassMembers")
+                        .HasForeignKey("JoinedClassesId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Model.User", "Member")
+                        .WithMany("ClassMembers")
+                        .HasForeignKey("MembersId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("JoinedClass");
+
+                    b.Navigation("Member");
+                });
+
             modelBuilder.Entity("Model.Document", b =>
                 {
                     b.HasOne("Model.Lesson", "Lesson")
@@ -384,6 +418,8 @@ namespace Model.Migrations
 
             modelBuilder.Entity("Model.Class", b =>
                 {
+                    b.Navigation("ClassMembers");
+
                     b.Navigation("Subjects");
                 });
 
@@ -411,6 +447,8 @@ namespace Model.Migrations
 
             modelBuilder.Entity("Model.User", b =>
                 {
+                    b.Navigation("ClassMembers");
+
                     b.Navigation("CreatedClasses");
 
                     b.Navigation("CreatedLessons");

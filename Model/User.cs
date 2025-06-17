@@ -20,7 +20,9 @@ namespace Model
         public virtual ICollection<Subject> CreatedSubjects { get; set; } = new List<Subject>();
         public virtual ICollection<Lesson> CreatedLessons { get; set; } = new List<Lesson>();
 
-        // Quan hệ n-n: Các lớp người dùng tham gia
+        // Quan hệ n-n
+        public ICollection<ClassMember> ClassMembers { get; set; }
+
         public virtual ICollection<Class> JoinedClasses { get; set; } = new List<Class>();
     }
 

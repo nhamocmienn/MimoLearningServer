@@ -15,6 +15,9 @@ namespace Model
 
         public virtual User Creator { get; set; } = null!;
 
+
+        public ICollection<ClassMember> ClassMembers { get; set; }
+
         public virtual ICollection<User> Members { get; set; } = new List<User>(); // n-n
         public virtual ICollection<Subject> Subjects { get; set; } = new List<Subject>();
     }

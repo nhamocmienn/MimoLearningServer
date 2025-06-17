@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Model.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCleanMigration : Migration
+    public partial class InitSchema : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -66,6 +66,30 @@ namespace Model.Migrations
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
                         name: "FK_ClassMembers_Users_MembersId",
+                        column: x => x.MembersId,
+                        principalTable: "Users",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "ClassUser",
+                columns: table => new
+                {
+                    JoinedClassesId = table.Column<int>(type: "int", nullable: false),
+                    MembersId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_ClassUser", x => new { x.JoinedClassesId, x.MembersId });
+                    table.ForeignKey(
+                        name: "FK_ClassUser_Classes_JoinedClassesId",
+                        column: x => x.JoinedClassesId,
+                        principalTable: "Classes",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                    table.ForeignKey(
+                        name: "FK_ClassUser_Users_MembersId",
                         column: x => x.MembersId,
                         principalTable: "Users",
                         principalColumn: "Id",
@@ -232,6 +256,11 @@ namespace Model.Migrations
                 column: "MembersId");
 
             migrationBuilder.CreateIndex(
+                name: "IX_ClassUser_MembersId",
+                table: "ClassUser",
+                column: "MembersId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_Documents_LessonId",
                 table: "Documents",
                 column: "LessonId");
@@ -282,6 +311,9 @@ namespace Model.Migrations
         {
             migrationBuilder.DropTable(
                 name: "ClassMembers");
+
+            migrationBuilder.DropTable(
+                name: "ClassUser");
 
             migrationBuilder.DropTable(
                 name: "Documents");
