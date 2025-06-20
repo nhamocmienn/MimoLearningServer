@@ -1,6 +1,8 @@
-﻿using DataAccess.ClassRepository;
+﻿using DataAccess;
+using DataAccess.ClassRepository;
 using Microsoft.EntityFrameworkCore;
 using Model;
+using Service;
 using Service.ClassServicePackage;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +14,9 @@ builder.Services.AddDbContext<MyDbContext>(opt =>
 // Đăng ký các lớp Service/Repository
 builder.Services.AddScoped<ClassService>();
 builder.Services.AddScoped<ClassRepository>();
+
+builder.Services.AddScoped<UserRepository>();
+builder.Services.AddScoped<UserService>();
 
 
 builder.Services.AddControllers();
